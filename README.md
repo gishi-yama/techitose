@@ -1,6 +1,11 @@
-#　このプロジェクトについて
+# このプロジェクトについて
 
 [ちとせプログラミング教室](https://www.facebook.com/techitose/)で用いるテキストやプログラミング例をまとめています。
+
+
+# 内容
+
+- [体験会](./introductory_course)
 
 # License
 
