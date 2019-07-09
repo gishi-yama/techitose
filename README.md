@@ -5,7 +5,8 @@
 
 # 内容
 
-- [体験会](./introductory_course)
+- [micro:bitでプログラミングを体験してみよう！](./introductory_course)
+- [micro:bitで無線通信を体験してみよう！](./bluetooth)
 
 # License
 
